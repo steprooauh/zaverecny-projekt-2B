@@ -1,0 +1,49 @@
+uh;Autobusové nádraží
+uh;Uherské Hradiště, žel. st.
+uh;Svatojiřské nábřeží
+uh;Stará Tenice
+uh;Smetanovy sady
+uh;Boženy Němcové
+uh;Studentské náměstí
+uh;Nemocnice
+uh;Garáže ČSAD
+uh;Jaktáře
+uh;Štěpnice, Za Alejí
+uh;Štěpnice
+uh;Mařatice, dolní konec
+uh;Mařatice, škola
+uh;Mařatice, hřbitov točna
+uh;Východ, Rudy Kubíčka
+uh;Východ, Větrná
+uh;Východ, Derflanská
+uh;Sídliště Východ
+uh;Pod Svahy
+uh;Svatováclavská
+uh;Na Rybníku
+uh;Sportovní
+uh;Střední školy
+uh;Tesco
+uh;Jarošov, centrum
+uh;Jarošov, průmyslová zóna
+uh;Markov
+uh;Sady, Za Kovárnou
+uh;Míkovice
+uh;Vésky
+uh;Vésky, střed
+uh;Vésky, Olšava
+sm;Staré Město, žel. st.
+sm;Staré Město, rozc. k žel. st.
+sm;Finská čtvrť
+sm;Sokolovna
+sm;Lidový dům
+sm;Hřbitov
+sm;Rybárny
+ku;Kunovice, rozc. k žel. st.
+ku;Kunovice, Na Rynku
+ku;Kunovice, škola
+ku;Kunovice, Novoveská
+ku;Kunovice, Lidická
+ku;Kunovice, koupaliště
+ku;Kunovice, LET
+ku;Kunovice, Na Bělince
+ku;Kunovice, Petříkovec

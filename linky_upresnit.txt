@@ -1,0 +1,11 @@
+300;p;Staré Město, žel. st.;Kunovice, Petříkovec;Uherské Hradiště, Sady, Za Kovárnou;35;-
+301;h
+302;h
+303;h
+304;h
+305;h
+306;h
+310;m
+314;m
+315;m
+316;m
