@@ -1,11 +1,11 @@
-300;p;Staré Město, žel. st.;Kunovice, Petříkovec;Uherské Hradiště, Sady, Za Kovárnou;35;-
-301;h
-302;h
-303;h
-304;h
-305;h
-306;h
-310;m
-314;m
-315;m
-316;m
+300;p;Stare Mesto, zel. st.;Kunovice, Petrikovec;Uherske Hradiste, Sady, Za Kovarnou;35;22;Iveco Urbanway
+301;h;Uherske Hradiste, Stepnice;Uherske Hradiste, Maratice, hrbitov tocna;-;18;14;SOR NS 12
+302;h;Uherske Hradiste, Stepnice;Uherske Hradiste, Mikovice;-;20;16;Iveco Crossway LE
+303;h;Stare Mesto, zel. st.;Uherske Hradiste, Na Rybniku;-;17;13;SOR NB 12
+304;h;Uherske Hradiste, Stepnice;Uherske Hradiste, Jarosov;-;22;18;Iveco Urbanway
+305;h;Uherske Hradiste, nemocnice;Uherske Hradiste, Vychod;-;15;11;SOR NB 12
+306;h;Uherske Hradiste, nemocnice;Uherske Hradiste, Mikovice, Na Prikope;-;19;15;Iveco Crossway LE
+310;m;Uherske Hradiste, aut. nadr.;Stare Mesto, zel. st.;-;12;9;SOR NS 12
+314;m;Kunovice, Let;Uherske Hradiste, Jarosov;-;24;19;Iveco Urbanway
+315;m;Uherske Hradiste, Mikovice;Uherske Hradiste, Jarosov;-;26;20;SOR NB 12
+316;m;Uherske Hradiste, Stepnice;Kunovice, Let;-;23;17;Iveco Urbanway
